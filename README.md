@@ -1,8 +1,8 @@
 # trabalho_t3_t4
 
 ## Integrantes do grupo:
-- Fabio
-- Fernando Padilha Farah - RA: 19.
+- Fabio Tott Mormillo - RA: 19.00176-2
+- Fernando Padilha Farah - RA: 19.00499-0
 - João Pedro Moura Penafiel - RA: 19.00097-9
 - Matheus dos Santos Galbiati - RA: 19.01324-8
 
