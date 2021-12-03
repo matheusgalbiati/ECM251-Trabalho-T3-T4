@@ -1,0 +1,16 @@
+version: '3.1'
+
+services:
+  database:
+    build: ./DB/
+    hostname: "mysql-server"
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_ROOT_PASSWORD: test
+      MYSQL_USER: test
+      MYSQL_PASSWORD: test
+      BASE_DATABASE_NAME: projeto_T3_T4
+    ports:
+      - 3306:3306
+    volumes:
+      - "./DB/Data:/var/lib/mysql"
